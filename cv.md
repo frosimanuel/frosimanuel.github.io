@@ -7,15 +7,10 @@ title: CV
 
 {% include contact.html %}
 
-## Section
+## About me
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Aca voy a poner un monton de cositas sobre mi pero ahora estoy apurado lo lamento mucho (lo finalizare o este sera un proyecto mas abandonado una vez que realice la parte que me parecia entretenida? no se veremos :).
 
-* Ut enim ad minim veniam
-* Quis nostrud exercitation
-* Ullamco laboris nisi
-* Ut aliquip ex ea commodo consequat
+### Experiencia
 
-### Subsection
-
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Una banda perro obvio.
