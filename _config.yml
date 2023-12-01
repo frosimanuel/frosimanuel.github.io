@@ -1,28 +1,28 @@
 # site settings
 
-title: cvless
-description: Jekyll theme for a beautiful online CV
+title: Welcome to manu
+description: Todavia no defini el uso directo de esta web pero mira el pinguinito que facherito que esta.
 taglong: Jekyll theme for a beautiful online CV
 tagshort: Jekyll theme
-url: https://cvless.netlify.app
+url: https://frosimanuel.github.io/
 baseurl: ""
 permalink: pretty
-repo: https://github.com/username/username.github.io
+repo: https://github.com/frosimanuel/frosimanuel.github.io
 
 # author settings
 
 author:
-  name: Place Holder
-  email: username@domain.com
+  name: Manuel Frosi
+  email: username@whocares.com
 photo: /assets/jpg/photo.jpg
 
 # social media links
 
 social:
   facebook: username
-  github: username
+  github: frosimanuel
   instagram: username
-  linkedin: username
+  linkedin: manuel-frosi
   stackoverflow: 0000000/username
   twitter: username
 
