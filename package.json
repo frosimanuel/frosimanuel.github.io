@@ -1,0 +1,12 @@
+{
+  "name": "frosimanuel-github-io",
+  "version": "1.0.0",
+  "description": "Manuel Frosi's personal website",
+  "engines": {
+    "node": ">=22.0.0"
+  },
+  "scripts": {
+    "build": "bundle exec jekyll build",
+    "serve": "bundle exec jekyll serve"
+  }
+}
